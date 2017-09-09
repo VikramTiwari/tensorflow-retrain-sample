@@ -30,5 +30,5 @@ python label_image.py <insert_file_path_to_predict_here>
 
 ## Credits
 
-[Albert Padin](https://github.com/albertpadin)
-Based on [Image Retraining Example](https://www.tensorflow.org/tutorials/image_retraining)
+- [Albert Padin](https://github.com/albertpadin)
+- Based on [Image Retraining Example](https://www.tensorflow.org/tutorials/image_retraining)
