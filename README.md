@@ -2,12 +2,12 @@
 
 ## About
 
-This is an example on how to use pre-existing TensorFlow models to retrain on your data. In this example, we use Inception which is an image classifier. You can train it on the existing images of different noodles type and then use images in the test directory to get the predictions.
+This is an example on how to use pre-existing TensorFlow models to retrain on your data. In this example, we use [Inception](https://github.com/tensorflow/models/tree/master/inception) which is an image classifier. You can train it on the existing images of different noodles type and then use images in the test directory to get the predictions.
 
 ## Setup
 
-- Install tensorflow
-- Put folders with images in "categories". The name of the folders will be the classifications.
+- Install [TensorFlow](https://www.tensorflow.org/install/)
+- Put directories with images in `categories` directory. The name of the directories will be the classifications
 
 ## Training
 
