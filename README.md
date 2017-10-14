@@ -28,6 +28,14 @@ python retrain.py \
 python label_image.py <insert_file_path_to_predict_here>
 ```
 
+## Visualize
+
+See the model and progress in TensorBoard
+
+``` bash
+tensorboard --logdir training_summaries
+```
+
 ## Credits
 
 - [Albert Padin](https://github.com/albertpadin)
