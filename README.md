@@ -35,6 +35,9 @@ See the model and progress in TensorBoard
 ``` bash
 tensorboard --logdir training_summaries
 ```
+## Demo  
+
+ - Here is a presentation of this sample in action. Demo starts at 42:00 - (link)[https://www.youtube.com/watch?v=xlxSVWxeZdM]
 
 ## Credits
 
